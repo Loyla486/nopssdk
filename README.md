@@ -16,13 +16,13 @@ This project does not touch or modify any original game code and is NOT intended
 
 ### Windows
 
-1. Download the [latest release](/nopssdk/releases/latest)
+1. Download the [latest release](/releases/latest)
 2. Copy `version.dll` to the game folder
 3. Enjoy!
 
 ### Linux (Wine) / SteamOS
 
-1. Download the [latest release](/nopssdk/releases/latest)
+1. Download the [latest release](/releases/latest)
 2. Copy `version.dll` to the game folder
 3. Add the following launch parameters to the game executable: `SteamDeck=0 WINEDLLOVERRIDES="version=n,b" %command%`
 4. Enjoy!
